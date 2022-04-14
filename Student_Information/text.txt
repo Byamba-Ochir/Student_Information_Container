@@ -1,0 +1,2 @@
+Name:Byamba-Ochir, Date of Birth:('2004', '1', '1'), Age:18, Grade:1, Subjects:['AP Calculus', 'Art']
+Name:Byambaa, Date of Birth:('2004', '11', '11'), Age:17, Grade:2, Subjects:['Band']
